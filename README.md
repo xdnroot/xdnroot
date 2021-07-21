@@ -6,9 +6,10 @@ Learner, Tech Enthusiast.
   <img height="180em" src="https://github-readme-stats-alpha-mauve.vercel.app/api/top-langs/?username=xdnroot&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
-#### Reach Me:
+#### Reach Me :
 <p align="left">
-  <a href="https://linkedin.com/in/xdnroot"><img alt="LinkedIn" height="32" width="32" src="assets/linkedin.svg"></a>
-  <a href="https://facebook.com/xdnroot"><img alt="Facebook" height="32" width="32" src="assets/facebook.svg"></a>
-  <a href="https://youtube.com/webiptekcom"><img alt="YouTube" height="32" width="32" src="assets/youtube.svg"></a>
+  <a href="https://linkedin.com/in/xdnroot" target="_blank"><img alt="LinkedIn" height="32" width="32" src="assets/linkedin.svg"></a>
+  <a href="https://facebook.com/xdnroot" target="_blank"><img alt="Facebook" height="32" width="32" src="assets/facebook.svg"></a>
+  <a href="https://t.me/xdnroot" target="_blank"><img alt="Telegram" height="32" width="32" src="assets/telegram.svg"></a>
+  <a href="https://youtube.com/webiptekcom" target="_blank"><img alt="YouTube" height="32" width="32" src="assets/youtube.svg"></a>
 </p>
